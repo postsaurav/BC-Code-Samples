@@ -1,0 +1,32 @@
+{
+  "id": "EF37C93E-205C-4F42-997F-653857094E4B",
+  "name": "BC Code Samples",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.0",
+  "brief": "This repo holds all code samples related to Business Central.",
+  "description": "Navigate to folder and read documentation to explore various code samples related to Business Central.",
+  "privacyStatement": "",
+  "EULA": "https://edhateconsulting.com/",
+  "help": "https://edhateconsulting.com/",
+  "url": "https://edhateconsulting.com/",
+  "logo": "logo/edhate.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
