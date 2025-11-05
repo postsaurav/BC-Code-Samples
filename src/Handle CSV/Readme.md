@@ -44,3 +44,12 @@ This sample adds a one-click action to the standard Item List that exports core 
 - Respect the current page filters by passing a `Record Item` with filters to the codeunit.
 - Add more columns (e.g., Item Category, Posting Group) or localize captions.
 - Allow delimiter selection (e.g., semicolon) or export to TSV.
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions that improve the functionality and usability of the preview report action.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any inquiries or support, please contact the [Project Maintainer](mailto:info@edhateconsulting.com?subject=Handle%CSV&body=Hi%20Saurav,%0ARequire%20Support%20for%20following%20issues:%0A)

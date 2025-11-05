@@ -20,15 +20,6 @@ To use the preview report action, follow these steps:
 2. Select the record you wish to preview.
 3. Click on the "Preview" button to view the report output.
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions that improve the functionality and usability of the preview report action.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For any inquiries or support, please contact the project maintainer at [info@edhateconsulting.com].
-
 ## File.ViewFromStream Method
 
 ### Overview
@@ -59,3 +50,14 @@ The `File.ViewFromStream` method opens a file from the server on the client comp
 
 ### Remarks
 This method works only in Business Central online environments and supports PDF files. For on-premise environments, you can use `File.View` but don't use it.
+
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions that improve the functionality and usability of the preview report action.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any inquiries or support, please contact the project maintainer at [info@edhateconsulting.com].
+For any inquiries or support, please contact the [Project Maintainer](mailto:info@edhateconsulting.com?subject=Preview%Report&body=Hi%20Saurav,%0ARequire%20Support%20for%20following%20issues:%0A)
